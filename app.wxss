@@ -1,0 +1,18 @@
+@import "colorui/main.wxss";
+@import "colorui/icon.wxss";
+centerBoth {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+centerBothFixed
+{
+ height: 80px;
+ width: 90%;
+ position: fixed;
+margin: auto;
+ bottom: 0; 
+ left: 0; 
+ right: 0; 
+ line-height: 80px; 
+}

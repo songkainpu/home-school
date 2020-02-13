@@ -1,0 +1,9 @@
+<cu-custom bgColor="bg-gradual-blue">
+  <view slot="content">关于</view>
+</cu-custom>
+<view style="position:fixed;width:100%;height:100%" class="bg-gradual-blue">
+<!--头部-->
+  <view style='position:fixed;margin:auto;bottom: 50%; left:30%;'>
+   <view>版权所有:@@@@@</view>
+  </view>
+</view>
